@@ -5,6 +5,7 @@ public class StaticDemo {
 	
 	static String s="Surendra";
 	String a="Mayank";
+	String n=" Nilam";
 	
 
 	public static void main(String[] args) {
