@@ -9,6 +9,7 @@ public class StaticDemo {
 	
 	String nq=" Nilam";
 	String nr=" Nilam";
+	String h="Horse";
 	public static void main(String[] args) {
 		
 		
