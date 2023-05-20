@@ -7,7 +7,8 @@ public class StaticDemo {
 	String a="Mayank";
 	String n=" Nilam";
 	
-
+	String nq=" Nilam";
+	String nr=" Nilam";
 	public static void main(String[] args) {
 		
 		
